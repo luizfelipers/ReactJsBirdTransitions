@@ -5,6 +5,11 @@ This is the first step to an open-source project I'll host, mainly to contribute
 
 A simple ReactJs stateless webapp, which uses Framer Motion, React-Router-Dom and Styled-Components to display cool and smooth animations at page transitions.
 
+## Desktop Demo
+![](https://user-images.githubusercontent.com/26651389/103236539-e9324180-4923-11eb-8c1e-1cf86c83e28c.gif)
+
+## Responsive Demo
+![](https://user-images.githubusercontent.com/26651389/103236543-ea636e80-4923-11eb-8c9d-b4c6b3304825.gif)
 
 
 ### Feel free to clone and adapt the transitions as you like.
